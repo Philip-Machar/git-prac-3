@@ -1,1 +1,1 @@
-console.log('this is a new feature');
+console.log('feature2');
